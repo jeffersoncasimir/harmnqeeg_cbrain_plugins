@@ -118,7 +118,7 @@
   ],
   "container-image": {
     "index": "docker://",
-    "image": "tperezdevelopment90/harmnqeeg:1.0.0",
+    "image": "tperezdevelopment90/harmnqeeg:0.0.9",
     "type": "singularity"
   },
   "schema-version": "0.5",
@@ -176,5 +176,5 @@
         ]
   },
   "tool-doi": "https://doi.org/10.5281/zenodo.7017243",
-  "url": "https://github.com/tperezdevelopment/HarMNqEEG"
+  "url": "https://github.com/jeffersoncasimir/harmnqeeg_cbrain_plugins"
 }
